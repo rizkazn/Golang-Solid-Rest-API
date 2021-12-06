@@ -17,8 +17,8 @@ var serveCommand = &cobra.Command{
 func serve(cmd *cobra.Command, args []string) error {
 	mainRutes := routers.New()
 
-	log.Println("Serve API on http://localhost:8080/api/v1")
-	if err := http.ListenAndServe(":8080", mainRutes); err != nil {
+	log.Println("Serve API on http://localhost:8000/api/v1")
+	if err := http.ListenAndServe(":8000", mainRutes); err != nil {
 		return err
 	}
 
