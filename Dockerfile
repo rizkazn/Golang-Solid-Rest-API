@@ -5,6 +5,7 @@ RUN mkdir -p /opt/goapp
 WORKDIR /opt/goapp
 
 COPY ./configs/db/migrate ./configs/db/migrate
+COPY .env .
 COPY ./build/gorestfull .
 
 RUN chmod +x ./gorestfull
