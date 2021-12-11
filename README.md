@@ -8,7 +8,7 @@
 
 ## Architecture 
 <p align="center">
-  <img src="https://res.cloudinary.com/rizkazn/image/upload/v1639240417/Product/Go_Arch_q1qigx.png" widht="700px" alt="" /> 
+  <img src="https://res.cloudinary.com/rizkazn/image/upload/v1639242417/Product/Go_Arch_wjfrsx.png" widht="700px" alt="" /> 
 </p>
 
 ## Built With
