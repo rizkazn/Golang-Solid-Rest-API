@@ -38,10 +38,10 @@
     https://github.com/rizkazn/Golang-Solid-Rest-API.git
     ```
 
-2. Installing Package
+2. Install Dependencies
 
    ```bash
-   go get -u github.com/<package_name>
+   go build
    ```
 
 3. Add .env file at root folder project
