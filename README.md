@@ -6,15 +6,15 @@
 </p>
 <hr/>
 
-## Architecture 
-<p align="center">
-  <img src="https://res.cloudinary.com/rizkazn/image/upload/v1639242707/Product/Go_Arch_u4lanx.png" widht="700px" alt="" /> 
-</p>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Point Of Sale (POS) APP is designed to help small businesses with keeping track of customers, items and inventory, and generate reports based on sales. This website uses Golang and PostgreSQL as the data backend.	
+
+## Architecture 
+<p align="center">
+  <img src="https://res.cloudinary.com/rizkazn/image/upload/v1639242707/Product/Go_Arch_u4lanx.png" widht="700px" alt="" /> 
+</p>
 
 ## Built With
 
