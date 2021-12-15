@@ -77,7 +77,9 @@ Point Of Sale (POS) APP is designed to help small businesses with keeping track 
    Backend running at: http://localhost:8080/api/v1
    ```
 
+## Endpoint
 
+See all the endpoint [here](https://documenter.getpostman.com/view/12011877/UVR7M8he)
 
 
 
